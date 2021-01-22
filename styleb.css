@@ -1,0 +1,24 @@
+table{
+	font-family:sans-serif;
+	color:black;
+	background:silver;
+}
+body{
+	background:gray;
+}
+h1{
+	font-family:monospaced;
+	font-size:45pt;
+}
+a{
+	background:olive;
+	color:black
+}
+.transfer{
+	background-image: url(22.jpeg);
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+th{
+	background:lime;
+}
